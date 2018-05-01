@@ -12,6 +12,9 @@ namespace ConsoleApp2
         {
             // 1: add at gitHub
             // 2: add again at gitHub
+            // 3: add at VS
+
+            // 4: call Feature1 at VS
         }
     }
 }
